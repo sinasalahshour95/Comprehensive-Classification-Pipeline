@@ -8,8 +8,7 @@ This project serves as a practical guide and framework for building a robust cla
 -	Data Cleaning: Robust methods for handling missing or null values.
 -	Feature Engineering: Techniques to create new, meaningful features from the existing data to improve model performance.
 -	Outlier Analysis: Implementation of algorithms to detect and handle outliers that could skew the model's accuracy.
--	Feature Selection: Multiple strategies for selecting the most relevant features, including:
--	Filter methods like Chi-Squared, correlation coefficients, Information Gain. Wrapper methods like RFE, forward/backward feature selection and Embedded methods like LASSO)
+-	Feature Selection: Multiple strategies for selecting the most relevant features, including: Filter methods like Chi-Squared, correlation coefficients, Information Gain, Wrapper methods like RFE, forward/backward feature selection, Embedded methods like LASSO, and ...
 -	Model Training: Training and evaluation of several popular classification models on different feature subsets.
 -	Comparative Analysis: A clear comparison of model performance metrics (F1-Score) to determine the best-performing model and feature set.
 
